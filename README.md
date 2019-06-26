@@ -29,4 +29,4 @@ pass : admin
 user : employee@employee.com
 pass : employee 
 
-If you want more customized option don't hesitate to contact me here or on : nishant.a1997@gmail.com
+If you want more customized option don't hesitate to contact me here or on : srivastavasankalp0707@gmail.com
